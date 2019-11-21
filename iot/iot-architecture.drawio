@@ -1,1 +1,22 @@
-<mxfile host="www.draw.io" modified="2019-11-21T12:06:30.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" version="12.2.7" etag="X55u1dcoB4i3_OJSTrYk" type="github"><diagram id="TeNlqGiva7IvxflfD58E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-21T12:19:30.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="IZTr4LNSjvARUCTOp1O7" version="12.2.7" type="github" pages="1">
+  <diagram id="TeNlqGiva7IvxflfD58E" name="Page-1">
+    <mxGraphModel dx="932" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="iRaWRqL0e0JW9HZ2cHJ_-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-technologies-1/800/pc-128.png" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="iRaWRqL0e0JW9HZ2cHJ_-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;direction=south;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430.5" y="88.5" width="79.72" height="31" as="geometry"/>
+        </mxCell>
+        <mxCell id="iRaWRqL0e0JW9HZ2cHJ_-4" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#B3B3B3;verticalAlign=top;points=[[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.855,0],[0.145,0.855,0],[0.5,0,0], [1,0.5,0], [0.5,1,0],[0,0.5,0]];pointerEvents=1;align=center;shape=mxgraph.cisco_safe.capability.wireless_connection;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="400" y="119.5" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="iRaWRqL0e0JW9HZ2cHJ_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="541" y="18.5" width="43" height="43" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
